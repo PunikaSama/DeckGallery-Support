@@ -2,16 +2,18 @@
 
 Support for the DeckGallery Stream Deck plugin by **PunisherSama**.
 
-Display your pictures across your Stream Deck image keys. Create albums with individual crops and automatic image changes. Press any image key to return.
+Display your pictures and animated GIFs across your Stream Deck image keys. Mix pictures and GIFs in one album with individual crops and automatic changes. Press any image key to return.
 
 ## Setup
 
 1. Install DeckGallery with Stream Deck 7.1 or newer and put **Open Wallpaper** on your home page.
-2. Select the key. Under **Images**, choose static PNG, JPEG or WebP files (up to 25 MB and 40 million pixels each).
+2. Select the key. Under **Images**, choose PNG, JPEG, WebP or GIF files (up to 25 MB and 40 million pixels each). Animated GIFs are supported from DeckGallery 1.1.0.
 3. Set a name under **Profile** and select **Create profile**. Changes to existing profiles save automatically; wait for **Saved** before closing the settings.
 4. Add, replace, reorder and remove images under **Images**. **Fill** sizes automatically; **Adjust** lets you drag and resize. The preview uses the device of the edited key.
-5. Under **Slideshow**, enable automatic changes with an interval from 5 seconds to 24 hours and optional shuffle. With one picture or with the switch off, the picture stays static.
-6. Press the wallpaper key. Confirm installation of the bundled display template if prompted. Any image key returns and stops the slideshow.
+5. Under **Slideshow**, enable automatic changes with an interval from 5 seconds to 24 hours and optional shuffle. Pictures and GIFs can alternate in the same album. GIFs keep animating when automatic changes are off.
+6. Press the wallpaper key. Confirm installation of the bundled display template if prompted. Any image key returns and stops both the slideshow and GIF playback.
+
+GIFs repeat using their original frame timing while displayed. The editor shows the first frame for cropping. Initial preparation may take a moment; playback smoothness depends on your device and GIF.
 
 ## Support
 
